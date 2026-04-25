@@ -1,0 +1,732 @@
+{
+    "stores": {
+        "XB78": {
+            "nama": "Cibening",
+            "expired_at": "2030-02-12 01:33:00"
+        },
+        "X992": {
+            "nama": "Akbar",
+            "expired_at": "2030-02-13 21:25:00"
+        },
+        "X991": {
+            "nama": "Pa asep",
+            "expired_at": "2026-03-08 16:29:00"
+        },
+        "2AI7": {
+            "nama": "SH",
+            "expired_at": "2026-03-04 22:08:00"
+        },
+        "X757": {
+            "nama": "Taskforce bandung",
+            "expired_at": "2026-04-21 14:32:00"
+        },
+        "R113": {
+            "nama": "Pa yasin",
+            "expired_at": "2026-03-05 00:06:00"
+        },
+        "X170": {
+            "nama": "Temen doni",
+            "expired_at": "2026-03-20 07:59:00"
+        },
+        "R724": {
+            "nama": "Pa awal Bashar",
+            "expired_at": "2026-03-17 21:44:00"
+        },
+        "XB86": {
+            "nama": "CBKM",
+            "expired_at": "2030-02-14 12:33:00"
+        },
+        "X498": {
+            "nama": "X498",
+            "expired_at": "2026-02-13 19:47:00"
+        },
+        "1Y3H": {
+            "nama": "Pa sandi manado",
+            "expired_at": "2026-03-02 23:50:00"
+        },
+        "X653": {
+            "nama": "Silvia cjrk",
+            "expired_at": "2026-03-09 15:56:00"
+        },
+        "XA97": {
+            "nama": "Faisal ihsan",
+            "expired_at": "2026-03-11 07:59:00"
+        },
+        "X205": {
+            "nama": "X205",
+            "expired_at": "2026-02-11 23:24:00"
+        },
+        "P126": {
+            "nama": "JENSUD PRABUMULIH",
+            "expired_at": "2027-01-01 22:03:00"
+        },
+        "M1U7": {
+            "nama": "MORI",
+            "expired_at": "2027-01-22 22:53:00"
+        },
+        "R725": {
+            "nama": "Sementara",
+            "expired_at": "2026-01-28 23:31:00"
+        },
+        "XB11": {
+            "nama": "AFTL",
+            "expired_at": "2027-01-27 12:15:00"
+        },
+        "X912": {
+            "nama": "T2T",
+            "expired_at": "2027-01-27 12:16:00"
+        },
+        "XA05": {
+            "nama": "TTA",
+            "expired_at": "2027-01-27 12:16:00"
+        },
+        "X870": {
+            "nama": "GGBR",
+            "expired_at": "2027-01-27 12:18:00"
+        },
+        "X488": {
+            "nama": "GSPJ",
+            "expired_at": "2027-01-27 12:18:00"
+        },
+        "X751": {
+            "nama": "BRND",
+            "expired_at": "2027-01-27 12:19:00"
+        },
+        "XA18": {
+            "nama": "PD",
+            "expired_at": "2027-01-27 12:19:00"
+        },
+        "XB69": {
+            "nama": "CLPH",
+            "expired_at": "2027-01-27 12:20:00"
+        },
+        "XB70": {
+            "nama": "SGPH",
+            "expired_at": "2027-01-27 12:20:00"
+        },
+        "X537": {
+            "nama": "RACO",
+            "expired_at": "2027-01-27 12:21:00"
+        },
+        "XB42": {
+            "nama": "KDIB",
+            "expired_at": "2027-01-27 12:21:00"
+        },
+        "X752": {
+            "nama": "RCB2",
+            "expired_at": "2027-01-27 12:21:00"
+        },
+        "XB83": {
+            "nama": "ABH2",
+            "expired_at": "2027-01-27 12:22:00"
+        },
+        "X487": {
+            "nama": "PSGO",
+            "expired_at": "2027-01-27 12:22:00"
+        },
+        "UD66": {
+            "nama": "Pa tri",
+            "expired_at": "2026-03-04 06:40:00"
+        },
+        "XB65": {
+            "nama": "Pa idan",
+            "expired_at": "2030-02-09 22:56:00"
+        },
+        "XB54": {
+            "nama": "Bu afi",
+            "expired_at": "2026-02-28 11:43:00"
+        },
+        "UE93": {
+            "nama": "1 jam",
+            "expired_at": "2026-01-29 00:10:00"
+        },
+        "X201": {
+            "nama": "Rsti",
+            "expired_at": "2027-02-25 22:29:00"
+        },
+        "X169": {
+            "nama": "Temen akbar",
+            "expired_at": "2026-02-28 19:14:00"
+        },
+        "X768": {
+            "nama": "Temen akbar",
+            "expired_at": "2026-02-28 19:15:00"
+        },
+        "X772": {
+            "nama": "Temen akbar",
+            "expired_at": "2026-02-28 19:15:00"
+        },
+        "X204": {
+            "nama": "Pa muslim",
+            "expired_at": "2027-01-31 12:44:00"
+        },
+        "X947": {
+            "nama": "Pa azis",
+            "expired_at": "2027-01-31 12:44:00"
+        },
+        "UE79": {
+            "nama": "Pa romlis",
+            "expired_at": "2026-02-07 16:32:00"
+        },
+        "UE60": {
+            "nama": "Pa romlis",
+            "expired_at": "2026-02-07 16:32:00"
+        },
+        "XB68": {
+            "nama": "H",
+            "expired_at": "2026-04-30 13:18:00"
+        },
+        "M687": {
+            "nama": "Kentut berdahak",
+            "expired_at": "2026-02-18 23:48:00"
+        },
+        "U459": {
+            "nama": "Kentut lagi",
+            "expired_at": "2026-03-03 00:06:00"
+        },
+        "U329": {
+            "nama": "Kentut berdahak lagi",
+            "expired_at": "2026-03-03 23:12:00"
+        },
+        "X778": {
+            "nama": "Doni apliriandi",
+            "expired_at": "2026-03-09 15:42:00"
+        },
+        "XB91": {
+            "nama": "Temen pa idan",
+            "expired_at": "2026-03-04 10:26:00"
+        },
+        "X500": {
+            "nama": "Area pa heri",
+            "expired_at": "2028-02-04 14:28:00"
+        },
+        "X996": {
+            "nama": "Area pa heri",
+            "expired_at": "2028-02-04 14:29:00"
+        },
+        "X255": {
+            "nama": "Alfamart",
+            "expired_at": "2029-02-13 02:17:00"
+        },
+        "X274": {
+            "nama": "Area pa heri",
+            "expired_at": "2028-02-04 14:30:00"
+        },
+        "XA51": {
+            "nama": "Area pa heri",
+            "expired_at": "2028-02-04 14:31:00"
+        },
+        "XB51": {
+            "nama": "Area pa heri",
+            "expired_at": "2028-02-04 14:32:00"
+        },
+        "X966": {
+            "nama": "Area pa heri",
+            "expired_at": "2028-02-09 00:43:00"
+        },
+        "X272": {
+            "nama": "Area pa heri",
+            "expired_at": "2028-02-04 14:34:00"
+        },
+        "X267": {
+            "nama": "Area pa heri",
+            "expired_at": "2028-02-04 14:34:00"
+        },
+        "X904": {
+            "nama": "Area pa Heri",
+            "expired_at": "2028-02-04 14:35:00"
+        },
+        "X734": {
+            "nama": "Area pa heri",
+            "expired_at": "2028-02-04 14:35:00"
+        },
+        "XB05": {
+            "nama": "Area pa heri",
+            "expired_at": "2028-02-04 14:36:00"
+        },
+        "X936": {
+            "nama": "Area pa heri",
+            "expired_at": "2028-02-04 14:36:00"
+        },
+        "X369": {
+            "nama": "Area pa heri",
+            "expired_at": "2028-02-04 14:37:00"
+        },
+        "X254": {
+            "nama": "Area pa heri",
+            "expired_at": "2028-02-04 14:37:00"
+        },
+        "X648": {
+            "nama": "Area pa heri",
+            "expired_at": "2028-02-04 14:38:00"
+        },
+        "X451": {
+            "nama": "Area pa heri",
+            "expired_at": "2028-02-04 14:38:00"
+        },
+        "X811": {
+            "nama": "Area pa heri",
+            "expired_at": "2028-02-04 14:38:00"
+        },
+        "X830": {
+            "nama": "Area pa heri",
+            "expired_at": "2028-02-04 14:39:00"
+        },
+        "XB22": {
+            "nama": "Temen pa idan",
+            "expired_at": "2026-03-04 19:05:00"
+        },
+        "N706": {
+            "nama": "C",
+            "expired_at": "2026-03-29 21:23:00"
+        },
+        "N723": {
+            "nama": "Ikbal lagi",
+            "expired_at": "2026-03-04 19:52:00"
+        },
+        "BJ09": {
+            "nama": "Ikbal again",
+            "expired_at": "2026-03-04 21:17:00"
+        },
+        "X142": {
+            "nama": "Temen pa idan",
+            "expired_at": "2026-03-05 07:56:00"
+        },
+        "X815": {
+            "nama": "Temen akbar",
+            "expired_at": "2026-03-05 18:48:00"
+        },
+        "R281": {
+            "nama": "Temen paa awal",
+            "expired_at": "2026-02-07 21:07:00"
+        },
+        "X191": {
+            "nama": "Ciapuss",
+            "expired_at": "2026-03-05 21:12:00"
+        },
+        "UE35": {
+            "nama": "Temen pa romli",
+            "expired_at": "2026-02-06 21:37:00"
+        },
+        "R426": {
+            "nama": "Temen pa yasin",
+            "expired_at": "2026-03-05 21:41:00"
+        },
+        "R526": {
+            "nama": "Temen pa Yasin",
+            "expired_at": "2026-03-05 21:42:00"
+        },
+        "X202": {
+            "nama": "Bnr",
+            "expired_at": "2026-02-06 22:51:00"
+        },
+        "X200": {
+            "nama": "Pulo empanh",
+            "expired_at": "2026-03-06 00:33:00"
+        },
+        "KB06": {
+            "nama": "Taskforce",
+            "expired_at": "2026-02-28 21:38:00"
+        },
+        "XA73": {
+            "nama": "CRTL",
+            "expired_at": "2026-03-06 14:25:00"
+        },
+        "O071": {
+            "nama": "Raka",
+            "expired_at": "2026-03-06 22:18:00"
+        },
+        "CH41": {
+            "nama": "Andreas",
+            "expired_at": "2026-02-09 16:30:00"
+        },
+        "UE36": {
+            "nama": "Pak romlis",
+            "expired_at": "2026-03-07 22:24:00"
+        },
+        "IA53": {
+            "nama": "Ginanjar",
+            "expired_at": "2026-02-10 12:14:00"
+        },
+        "XB19": {
+            "nama": "Temen pa muslim",
+            "expired_at": "2026-03-08 16:00:00"
+        },
+        "N696": {
+            "nama": "Temen pa ikbal",
+            "expired_at": "2026-03-08 16:01:00"
+        },
+        "XA77": {
+            "nama": "Bos",
+            "expired_at": "2026-03-08 17:04:00"
+        },
+        "N707": {
+            "nama": "Temen ikbal",
+            "expired_at": "2026-03-08 18:36:00"
+        },
+        "W779": {
+            "nama": "Doni kalcer",
+            "expired_at": "2026-03-08 18:40:00"
+        },
+        "N717": {
+            "nama": "Temen ikbal",
+            "expired_at": "2026-03-08 22:40:00"
+        },
+        "X143": {
+            "nama": "Temen pa idan",
+            "expired_at": "2026-03-09 16:48:00"
+        },
+        "U256": {
+            "nama": "Raka teman",
+            "expired_at": "2026-03-10 00:09:00"
+        },
+        "X767": {
+            "nama": "Temen akbar",
+            "expired_at": "2026-03-10 22:53:00"
+        },
+        "XA81": {
+            "nama": "Temen pa idan",
+            "expired_at": "2026-03-10 15:15:00"
+        },
+        "U717": {
+            "nama": "Temen kentut",
+            "expired_at": "2026-03-10 18:40:00"
+        },
+        "X180": {
+            "nama": "Bantu so grand",
+            "expired_at": "2026-02-11 15:36:00"
+        },
+        "XA82": {
+            "nama": "Area pak masikun",
+            "expired_at": "2028-02-10 22:41:00"
+        },
+        "X802": {
+            "nama": "Area pak masikun",
+            "expired_at": "2028-02-10 22:41:00"
+        },
+        "X649": {
+            "nama": "Area pak masikun",
+            "expired_at": "2028-02-10 22:41:00"
+        },
+        "X575": {
+            "nama": "Area pak masikun",
+            "expired_at": "2028-02-10 22:42:00"
+        },
+        "X252": {
+            "nama": "Area pak masikun",
+            "expired_at": "2028-02-10 22:42:00"
+        },
+        "X918": {
+            "nama": "Area pak masikun",
+            "expired_at": "2028-02-10 22:43:00"
+        },
+        "XC04": {
+            "nama": "Area pak masikun",
+            "expired_at": "2028-02-10 22:43:00"
+        },
+        "X780": {
+            "nama": "Area pak masikun",
+            "expired_at": "2028-02-10 22:43:00"
+        },
+        "X448": {
+            "nama": "Area pak masikun",
+            "expired_at": "2028-02-10 22:44:00"
+        },
+        "XB12": {
+            "nama": "Area pak masikun",
+            "expired_at": "2028-02-10 22:44:00"
+        },
+        "XA98": {
+            "nama": "T",
+            "expired_at": "2026-04-30 13:21:00"
+        },
+        "XA27": {
+            "nama": "Area pak masikun",
+            "expired_at": "2028-02-10 22:44:00"
+        },
+        "X833": {
+            "nama": "Area pak masikun",
+            "expired_at": "2028-02-10 22:45:00"
+        },
+        "X700": {
+            "nama": "Area pak masikun",
+            "expired_at": "2028-02-10 22:45:00"
+        },
+        "X762": {
+            "nama": "Area pak masikun",
+            "expired_at": "2028-02-10 22:45:00"
+        },
+        "X266": {
+            "nama": "Area pak masikun",
+            "expired_at": "2028-02-10 22:45:00"
+        },
+        "X236": {
+            "nama": "7",
+            "expired_at": "2026-04-30 13:22:00"
+        },
+        "X865": {
+            "nama": "Area pak masikun",
+            "expired_at": "2028-02-10 22:46:00"
+        },
+        "1Y16": {
+            "nama": "Temen pa sandi",
+            "expired_at": "2026-02-12 07:27:00"
+        },
+        "XC07": {
+            "nama": "Pa ahmad",
+            "expired_at": "2030-02-11 12:20:00"
+        },
+        "X077": {
+            "nama": "X077",
+            "expired_at": "2026-03-01 12:42:00"
+        },
+        "X094": {
+            "nama": "X094",
+            "expired_at": "2026-03-01 12:42:00"
+        },
+        "1Y5P": {
+            "nama": "1Y5P",
+            "expired_at": "2026-02-13 08:42:00"
+        },
+        "N732": {
+            "nama": "Bojong rongga",
+            "expired_at": "2026-03-12 08:45:00"
+        },
+        "N606": {
+            "nama": "Gandok",
+            "expired_at": "2026-03-12 08:46:00"
+        },
+        "NA03": {
+            "nama": "Gunung halu baru",
+            "expired_at": "2026-03-12 08:46:00"
+        },
+        "N980": {
+            "nama": "Baranang",
+            "expired_at": "2026-03-12 08:46:00"
+        },
+        "XB74": {
+            "nama": "Alfamart",
+            "expired_at": "2026-03-12 12:07:00"
+        },
+        "R035": {
+            "nama": "Alfamart",
+            "expired_at": "2026-03-12 23:59:00"
+        },
+        "X147": {
+            "nama": "Alfamart",
+            "expired_at": "2026-03-12 21:34:00"
+        },
+        "1M8R": {
+            "nama": "TASKFORCE",
+            "expired_at": "2026-02-28 01:44:00"
+        },
+        "M741": {
+            "nama": "M741",
+            "expired_at": "2026-02-13 03:26:00"
+        },
+        "N204": {
+            "nama": "Alfamart",
+            "expired_at": "2026-03-13 06:57:00"
+        },
+        "N202": {
+            "nama": "Cililin",
+            "expired_at": "2026-03-13 19:03:00"
+        },
+        "N612": {
+            "nama": "Somawinata2",
+            "expired_at": "2026-03-13 19:04:00"
+        },
+        "XB18": {
+            "nama": "Azhar anjing",
+            "expired_at": "2026-02-13 21:19:00"
+        },
+        "NA31": {
+            "nama": "Alfamart",
+            "expired_at": "2026-03-16 08:42:00"
+        },
+        "N665": {
+            "nama": "Alfamart",
+            "expired_at": "2026-03-17 15:53:00"
+        },
+        "N347": {
+            "nama": "Alfamart",
+            "expired_at": "2026-03-17 15:53:00"
+        },
+        "N972": {
+            "nama": "Alfamart",
+            "expired_at": "2026-03-17 15:53:00"
+        },
+        "XB89": {
+            "nama": "Pa deden",
+            "expired_at": "2030-02-17 20:34:00"
+        },
+        "N799": {
+            "nama": "Alfamart",
+            "expired_at": "2026-03-18 18:23:00"
+        },
+        "N880": {
+            "nama": "Alfamart",
+            "expired_at": "2026-03-18 18:24:00"
+        },
+        "B808": {
+            "nama": "Alfamart",
+            "expired_at": "2026-03-18 18:24:00"
+        },
+        "1Y13": {
+            "nama": "Alfamart",
+            "expired_at": "2026-02-20 09:25:00"
+        },
+        "BNJY": {
+            "nama": "BNJY",
+            "expired_at": "2026-03-20 22:01:00"
+        },
+        "N291": {
+            "nama": "BNJY",
+            "expired_at": "2026-03-20 22:01:00"
+        },
+        "N975": {
+            "nama": "MRMR",
+            "expired_at": "2026-03-20 22:01:00"
+        },
+        "N777": {
+            "nama": "T",
+            "expired_at": "2026-03-20 22:02:00"
+        },
+        "M1T6": {
+            "nama": "Alfamart",
+            "expired_at": "2026-03-21 19:47:00"
+        },
+        "N789": {
+            "nama": "N",
+            "expired_at": "2026-03-21 22:44:00"
+        },
+        "N646": {
+            "nama": "N",
+            "expired_at": "2026-03-21 22:44:00"
+        },
+        "N642": {
+            "nama": "N",
+            "expired_at": "2026-03-23 06:27:00"
+        },
+        "TD81": {
+            "nama": "N",
+            "expired_at": "2026-03-23 06:27:00"
+        },
+        "1YB5": {
+            "nama": "Alfamart",
+            "expired_at": "2026-02-25 21:17:00"
+        },
+        "1Y3T": {
+            "nama": "Alfamar",
+            "expired_at": "2026-02-28 07:30:00"
+        },
+        "N981": {
+            "nama": "C",
+            "expired_at": "2026-03-27 21:23:00"
+        },
+        "AC67": {
+            "nama": "Alfamart",
+            "expired_at": "2026-04-05 08:37:00"
+        },
+        "XA94": {
+            "nama": "Alfamart",
+            "expired_at": "2026-04-06 23:17:00"
+        },
+        "1MM2": {
+            "nama": "Taskforce alfa",
+            "expired_at": "2026-05-05 00:15:00"
+        },
+        "1M7E": {
+            "nama": "Alfamart",
+            "expired_at": "2026-05-05 10:54:00"
+        },
+        "XB71": {
+            "nama": "1",
+            "expired_at": "2026-04-30 13:16:00"
+        },
+        "XC02": {
+            "nama": "O",
+            "expired_at": "2026-04-30 13:17:00"
+        },
+        "XB84": {
+            "nama": "H",
+            "expired_at": "2026-04-30 13:17:00"
+        },
+        "X567": {
+            "nama": "U",
+            "expired_at": "2026-04-30 13:17:00"
+        },
+        "X900": {
+            "nama": "8",
+            "expired_at": "2026-04-30 13:17:00"
+        },
+        "XA56": {
+            "nama": "P",
+            "expired_at": "2026-04-30 13:18:00"
+        },
+        "XB02": {
+            "nama": "9",
+            "expired_at": "2026-04-30 13:18:00"
+        },
+        "X998": {
+            "nama": "U",
+            "expired_at": "2026-04-30 13:19:00"
+        },
+        "X749": {
+            "nama": "I",
+            "expired_at": "2026-04-30 13:19:00"
+        },
+        "N784": {
+            "nama": "Alfamart",
+            "expired_at": "2026-04-17 02:22:00"
+        },
+        "1M7J": {
+            "nama": "Alfamart",
+            "expired_at": "2026-04-30 09:48:00"
+        },
+        "X286": {
+            "nama": "Alfamart",
+            "expired_at": "2026-04-30 09:48:00"
+        },
+        "1M5W": {
+            "nama": "Alfamart",
+            "expired_at": "2026-04-30 09:49:00"
+        },
+        "1M7H": {
+            "nama": "Alfamart",
+            "expired_at": "2026-04-30 09:49:00"
+        },
+        "AC70": {
+            "nama": "Alfamart",
+            "expired_at": "2026-04-30 09:49:00"
+        },
+        "1M2K": {
+            "nama": "Alfamart",
+            "expired_at": "2026-04-30 09:49:00"
+        },
+        "1MW1": {
+            "nama": "Alfamart",
+            "expired_at": "2026-04-30 09:50:00"
+        },
+        "UE12": {
+            "nama": "Alfamart",
+            "expired_at": "2026-04-19 08:30:00"
+        },
+        "N757": {
+            "nama": "Taskforce alfa",
+            "expired_at": "2026-04-21 14:33:00"
+        },
+        "N724": {
+            "nama": "Taskforce alfa",
+            "expired_at": "2026-04-30 14:33:00"
+        },
+        "XA76": {
+            "nama": "Alfamart",
+            "expired_at": "2026-04-20 23:59:00"
+        },
+        "N851": {
+            "nama": "Alfamart",
+            "expired_at": "2026-04-24 16:27:00"
+        }
+    }
+}
